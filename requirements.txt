@@ -8,5 +8,5 @@ pprint==0.1
 pymongo==3.7.2
 pytz==2018.7
 requests==2.21.0
-urllib3==1.24.2
+urllib3==1.26.5
 zope.interface==4.6.0
